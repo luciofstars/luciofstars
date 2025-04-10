@@ -1,6 +1,5 @@
-## Hi there! 👋
+## Howdy! 👋
 
-- 🔭 I’m currently working on a customized Fedora-based OS image for my personal needs, to learn how the tooling works.
 - 🌱 I’m currently learning how to program!
 - 👯 I’m looking to collaborate on documentation and community space moderation!
 - 💬 Ask me about anything and everything!
